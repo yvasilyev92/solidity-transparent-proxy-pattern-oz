@@ -10,9 +10,12 @@ This is a simple example of using OpenZeppelins Hardhat-Upgrades plugin to deplo
 # 
 TransparentUpgradeableProxy.sol
 https://testnet.bscscan.com/address/0x566cd743a6e56bfd2c38b20262f30ccce3f3aae9#code
+#
 ProxyAdmin.sol
 https://testnet.bscscan.com/address/0xf97a3c55d8f37f11a1d3969b30adad448a9d8683#code
+#
 LogicV1.sol implementation contract
 https://testnet.bscscan.com/address/0xac37c08A4888CF7C258464697549bb6f69B0Dfc4#code
-LogicaV2.sol implementation contract
+#
+LogicV2.sol implementation contract
 https://testnet.bscscan.com/address/0xb03B00198d0603B4Ee54De049495D8c64E400a03#code
